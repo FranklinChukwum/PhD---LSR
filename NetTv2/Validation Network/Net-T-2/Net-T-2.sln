@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Net-T-2", "Net-T-2\Net-T-2.pyproj", "{CB5E3EB6-6677-48E5-9CD5-7408ED007483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB5E3EB6-6677-48E5-9CD5-7408ED007483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5E3EB6-6677-48E5-9CD5-7408ED007483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DECAF2-D5A3-4BC2-ACE4-FDC89DCE19DC}
+	EndGlobalSection
+EndGlobal
