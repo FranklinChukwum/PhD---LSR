@@ -2,6 +2,6 @@
 
 To run Simulations
 
-NetTv2: 
+NetTv2: The networks are both created as 
 
 
